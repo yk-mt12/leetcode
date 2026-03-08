@@ -11,3 +11,5 @@ https://1kohei1.com/leetcode/
 今度は、時間を測りながら、もう一回、書きましょう。書いてアクセプトされたら文字消してもう一回書きましょう。これを10分以内に一回もエラーを出さずに書ける状態になるまで続けてください。
 
 3回続けてそれができたらその問題はひとまず丸です。
+
+https://docs.google.com/spreadsheets/d/1a3tiWfBWz54pyi9Su6whatGTsvycWtESJwHFzZY-LSY/edit?gid=0#gid=0 **にチェックをつけていく**
